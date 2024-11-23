@@ -8,7 +8,7 @@
       <a href="#objetivo">Objetivo</a>
     </li>
     <li>
-      <a href="#pastas-e-arquivos">Pastas</a>
+      <a href="#pastas-e-arquivos">Pastas e Arquivos</a>
     </li>
     <li>
       <a href="#imagens">Imagens</a>
